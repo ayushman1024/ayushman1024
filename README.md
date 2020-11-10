@@ -1,4 +1,5 @@
-### Ayushman Srivastava /ayushman1024
+### ⚜ Ayushman Srivastava ⚜
+----
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ayushman1024&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 My Top Projects:
