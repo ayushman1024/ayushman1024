@@ -1,8 +1,8 @@
-### ⚜ Ayushman Srivastava ⚜
+## ⚜ Ayushman Srivastava ⚜
 ----
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ayushman1024&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-My Top Projects:
+### My Top Projects:
 
 ▶ [TASK-Management-System](https://github.com/ayushman1024/TASK-Management-System)  
 ▶ [Filalyze](https://github.com/ayushman1024/Filalyze)  
