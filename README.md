@@ -16,6 +16,6 @@
 | 📌[ayushman1024.github.io](https://github.com/ayushman1024/ayushman1024.github.io)  
  |  | --->
 
-<img src="https://github-pages-visitor.herokuapp.com/counterimg/githubDashboard" alt="drawing" width="5"/>
+<img src="https://github-pages-visitor.herokuapp.com/counterimg/githubDashboard" alt="" width="5"/>
 
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman1024&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) --->
