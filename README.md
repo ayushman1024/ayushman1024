@@ -4,8 +4,8 @@
 
 ### My Top Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushman1024&repo=TASK-Management-System)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushman1024&repo=Graph-plotting-software)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushman1024&repo=TASK-Management-System)](https://github.com/ayushman1024/TASK-Management-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushman1024&repo=Graph-plotting-software)](https://github.com/ayushman1024/Hospital-Management-Using-Servlets)
 
 | Repository | Technologies |
 |--|--|
