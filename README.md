@@ -3,6 +3,10 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ayushman1024&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Top Projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushman1024&repo=TASK-Management-System)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushman1024&repo=Graph-plotting-software)](https://github.com/anuraghazra/github-readme-stats)
+
 | Repository | Technologies |
 |--|--|
 | 📌 [TASK-Management-System](https://github.com/ayushman1024/TASK-Management-System)   |  Spring Boot, Angular, Spring Data JPA|
