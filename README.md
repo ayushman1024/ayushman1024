@@ -1,5 +1,9 @@
 ## ⚜ Ayushman Srivastava ⚜
 ----  
+Connect me on Linkedin [![Linkedin](https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg](https://www.linkedin.com/in/ayushman1024/)
+[![Gitter](https://badges.gitter.im/TMS-Community/community.svg)](https://gitter.im/TMS-Community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01JFRM) <a href="https://www.buymeacoffee.com/ar7HQlZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width=15% height=15%></a>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ayushman1024&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Top Projects:
