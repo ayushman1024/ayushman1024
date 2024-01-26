@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=django,spring,flask,angular)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,aws)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
 [![My Skills](https://skillicons.dev/icons?i=java,python,typescript,html)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
-
+![](https://komarev.com/ghpvc/?username=ayushman1024&color=orange)
 
 ### My Top Projects:
 
@@ -27,5 +27,5 @@
  |  | --->
 
 <img src="https://github-pages-visitor.herokuapp.com/counterimg/githubDashboard" alt="" width="5"/>
-![](https://komarev.com/ghpvc/?username=ayushman1024&color=orange)<br>
+
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman1024&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) --->
