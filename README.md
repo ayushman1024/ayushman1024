@@ -4,7 +4,6 @@
 [![My Skills](https://skillicons.dev/icons?i=django,spring,flask,angular)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,aws)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
 [![My Skills](https://skillicons.dev/icons?i=java,python,typescript,html)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
-![](https://komarev.com/ghpvc/?username=ayushman1024&color=orange)
 
 ### My Top Projects:
 
