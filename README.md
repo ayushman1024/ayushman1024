@@ -1,7 +1,10 @@
-# Ayushman Srivastava
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayushman1024/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:ayushman1024@gmail.com)<br><br><br>
-[![Ayushman's github stats](https://github-readme-stats.vercel.app/api?username=ayushman1024&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![My Skills](https://skillicons.dev/icons?i=django,spring,flask,angular)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
+Ayushman Srivastava
+=====================
+### Reach out to me
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayushman1024/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:ayushman.srivastava007@gmail.com)<br>
+---
+<!--- [![Ayushman's github stats](https://github-readme-stats.vercel.app/api?username=ayushman1024&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)<br>--->
+[![My Skills](https://skillicons.dev/icons?i=flask,angular,ionic,spring)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,git,aws)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
 [![My Skills](https://skillicons.dev/icons?i=java,python,typescript,html)]([https://skillicons.dev](https://drive.google.com/file/d/11VQSm10ZJjvg9BDZp4--jReQaOo2nV8J/view))<br>
 
